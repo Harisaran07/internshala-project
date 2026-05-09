@@ -1,4 +1,4 @@
-# 🏌️ Pannu Golf Charity Platform
+# 🏌️ Pannu Golf Charity Platform — Localization
 
 > A modern, full-stack web platform connecting golf enthusiasts with charitable causes — built with Next.js, Supabase, and Stripe.
 

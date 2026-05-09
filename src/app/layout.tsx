@@ -7,8 +7,8 @@ import Footer from "@/components/layout/Footer";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Golf Charity Platform",
-  description: "Performance tracking, monthly draws, and charitable giving.",
+  title: "Pannu Golf Charity Platform — Localization",
+  description: "A localized golf charity platform for performance tracking, monthly draws, and charitable giving across multiple regions.",
 };
 
 import { AuthProvider } from "@/context/AuthContext";
