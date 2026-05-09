@@ -12,7 +12,7 @@
 
 ## 📖 Overview
 
-**Pannu Golf Charity Platform** is a localized, feature-rich web application that enables golf clubs, players, and organizations to organize charity events, track scores, support non-profit causes, and manage subscriptions — all from one unified platform.
+**Golf Charity Platform** is a localized, feature-rich web application that enables golf clubs, players, and organizations to organize charity events, track scores, support non-profit causes, and manage subscriptions — all from one unified platform.
 
 The platform is designed with a focus on **localization**, making it accessible to users across different regions and languages. It supports multi-region charity campaigns, currency-aware donations, and locale-specific content.
 
@@ -170,4 +170,4 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 **Harisaran07** — [@Harisaran07](https://github.com/Harisaran07)
 
-> *"Golf is a game of giving — Pannu Golf Charity Platform makes every swing count."* 🏌️‍♂️💚
+> *"Golf is a game of giving — Golf Charity Platform makes every swing count."* 🏌️‍♂️💚
